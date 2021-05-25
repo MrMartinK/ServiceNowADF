@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>DIRECT</link_type>
-        <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <link_type>MAP</link_type>
+        <map_page display_value="x_cdltd_loaner_req_Requested for Locatio">ec2a6d82ecdcb8107f446d2f3cee384b</map_page>
+        <mobile_title>Requestor Location</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_cdltd_loaner_req_loaner_request</name>
-        <order>200</order>
+        <name/>
+        <order>900</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e6141456ec94f8107f446d2f3cee3842</query>
+        <query/>
         <report/>
-        <roles>x_cdltd_loaner_req.loaner_request_user,x_cdltd_loaner_req.admin</roles>
+        <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-05-21 08:54:04</sys_created_on>
+        <sys_created_on>2021-05-24 22:48:15</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c580d378ec5cf4107f446d2f3cee3857</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_id>420ca506ecdcb8107f446d2f3cee386b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requestor Location</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a8af4778ec5cf4107f446d2f3cee3862</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">a8af4778ec5cf4107f446d2f3cee3862</sys_scope>
-        <sys_update_name>sys_app_module_c580d378ec5cf4107f446d2f3cee3857</sys_update_name>
+        <sys_update_name>sys_app_module_420ca506ecdcb8107f446d2f3cee386b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-05-25 11:16:19</sys_updated_on>
+        <sys_updated_on>2021-05-24 22:48:15</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Requestor Location</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

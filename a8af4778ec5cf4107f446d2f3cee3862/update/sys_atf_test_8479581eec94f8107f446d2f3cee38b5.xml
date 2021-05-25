@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>My First Loaner Request ATF Test</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 11:25:21</sys_created_on>
+        <sys_id>8479581eec94f8107f446d2f3cee38b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My First Loaner Request ATF Test</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a8af4778ec5cf4107f446d2f3cee3862</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a8af4778ec5cf4107f446d2f3cee3862</sys_scope>
+        <sys_update_name>sys_atf_test_8479581eec94f8107f446d2f3cee38b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 11:25:21</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=8479581eec94f8107f446d2f3cee38b5"/>
+</record_update>
